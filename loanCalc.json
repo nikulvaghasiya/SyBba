@@ -1,0 +1,19 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "nk.tubemusic.musicdownloader",
+   "fbBannr": "967922680456368_967923313789638",
+  "fbInter": "967922680456368_967923410456295",
+  "fbNative": "967922680456368_967923573789612",
+  "fbNativeBnnr": "967922680456368_967923573789612",
+  "AdmobBannr": "/21753324030,22492051893/com.personalloan.loancalculator_Banner",
+  "AdmobInter": "/21753324030,22492051893/com.personalloan.loancalculator_Interstitial",
+  "AdmobInterSplash":"/21753324030,22492051893/com.personalloan.loancalculator_Interstitial",
+  "AdmobNative": "/21753324030,22492051893/com.personalloan.loancalculator_Native",
+  "AdmobOpenAds": "/21753324030,22492051893/com.personalloan.loancalculator_AppOpen",
+  "admob_pub_id": "pub-3380634588464539a",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
+  "adType": "fb",
+  "adStatus": "admob",
+  "adMobTime":10
+}
